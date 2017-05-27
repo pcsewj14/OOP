@@ -1,0 +1,35 @@
+﻿빌드 시작: 12/9/2015 2:55:53 AM
+     1>2 노드의 "C:\Users\Junyoung\Desktop\다시최종\yootMarbleEngine\yootMarbleEngine.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Release\yootMarbleEngine.unsuccessfulbuild"을(를) 만들고 있습니다.
+       CustomBuild:
+         모든 출력이 최신 상태입니다.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\5.5\msvc2010\include /I.\GeneratedFiles\Release /IC:\Qt\5.5\msvc2010\include\QtCore /IC:\Qt\5.5\msvc2010\include\QtGui /IC:\Qt\5.5\msvc2010\include\QtWidgets /IC:\Qt\5.5\msvc2010\include\QtMultimedia /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D QT_MULTIMEDIA_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt User.cpp
+         User.cpp
+         모든 출력이 최신 상태입니다.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Junyoung\Desktop\다시최종\Win32\Release\\yootMarbleEngine.exe" /NOLOGO /LIBPATH:C:\Qt\5.5\msvc2010\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib Qt5Multimedia.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\yootMarbleEngine.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:\Users\Junyoung\Desktop\다시최종\Win32\Release\yootMarbleEngine.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Junyoung\Desktop\다시최종\Win32\Release\yootMarbleEngine.lib" /MACHINE:X86 Release\Board.obj
+         Release\buildingspace.obj
+         Release\GameDisplay.obj
+         Release\qrc_yootmarbleengine.obj
+         Release\moc_GameDisplay.obj
+         Release\moc_startdisplay.obj
+         Release\moc_User.obj
+         Release\healingspace.obj
+         Release\main.obj
+         Release\Piece.obj
+         Release\startdisplay.obj
+         Release\User.obj
+         Release\yootmarbleengine.obj
+         yootMarbleEngine.vcxproj -> C:\Users\Junyoung\Desktop\다시최종\Win32\Release\yootMarbleEngine.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Junyoung\Desktop\다시최종\Win32\Release\\yootMarbleEngine.exe;#1" /manifest Release\yootMarbleEngine.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         "Release\yootMarbleEngine.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Release\yootMarbleEngine.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\Junyoung\Desktop\다시최종\yootMarbleEngine\yootMarbleEngine.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.43

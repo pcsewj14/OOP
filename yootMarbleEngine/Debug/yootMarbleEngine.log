@@ -1,0 +1,54 @@
+﻿빌드 시작: 2015-12-07 오전 1:27:10
+     1>2 노드의 "C:\oop_project\최종일~1\yootMarbleEngine\yootMarbleEngine.vcxproj" 프로젝트(rebuild 대상)입니다.
+     1>_PrepareForClean:
+         "Debug\yootMarbleEngine.lastbuildstate" 파일을 삭제하고 있습니다.
+       InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\yootMarbleEngine.unsuccessfulbuild"을(를) 만들고 있습니다.
+       CustomBuild:
+         Uic'ing yootmarbleengine.ui...
+         Moc'ing startdisplay.h...
+         Moc'ing User.h...
+         Moc'ing GameDisplay.h...
+         Rcc'ing yootmarbleengine.qrc...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\5.5\msvc2010\include /I.\GeneratedFiles\Debug /IC:\Qt\5.5\msvc2010\include\QtCore /IC:\Qt\5.5\msvc2010\include\QtGui /IC:\Qt\5.5\msvc2010\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Board.cpp buildingspace.cpp GameDisplay.cpp GeneratedFiles\Debug\moc_GameDisplay.cpp GeneratedFiles\Debug\moc_startdisplay.cpp GeneratedFiles\Debug\moc_User.cpp healingspace.cpp main.cpp Piece.cpp startdisplay.cpp User.cpp yootmarbleengine.cpp
+         Board.cpp
+         buildingspace.cpp
+         GameDisplay.cpp
+         moc_GameDisplay.cpp
+         moc_startdisplay.cpp
+         moc_User.cpp
+         healingspace.cpp
+         main.cpp
+         Piece.cpp
+         startdisplay.cpp
+         User.cpp
+         yootmarbleengine.cpp
+         코드를 생성하고 있습니다...
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\5.5\msvc2010\include /I.\GeneratedFiles\Debug /IC:\Qt\5.5\msvc2010\include\QtCore /IC:\Qt\5.5\msvc2010\include\QtGui /IC:\Qt\5.5\msvc2010\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_yootmarbleengine.cpp
+         qrc_yootmarbleengine.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\oop_project\최종일~1\Win32\Debug\\yootMarbleEngine.exe" /NOLOGO /LIBPATH:C:\Qt\5.5\msvc2010\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\yootMarbleEngine.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\oop_project\최종일~1\Win32\Debug\yootMarbleEngine.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\oop_project\최종일~1\Win32\Debug\yootMarbleEngine.lib" /MACHINE:X86 Debug\Board.obj
+         Debug\buildingspace.obj
+         Debug\GameDisplay.obj
+         Debug\moc_GameDisplay.obj
+         Debug\moc_startdisplay.obj
+         Debug\moc_User.obj
+         Debug\qrc_yootmarbleengine.obj
+         Debug\healingspace.obj
+         Debug\main.obj
+         Debug\Piece.obj
+         Debug\startdisplay.obj
+         Debug\User.obj
+         Debug\yootmarbleengine.obj
+         yootMarbleEngine.vcxproj -> C:\oop_project\최종일~1\Win32\Debug\yootMarbleEngine.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\oop_project\최종일~1\Win32\Debug\\yootMarbleEngine.exe;#1" /manifest Debug\yootMarbleEngine.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         "Debug\yootMarbleEngine.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\yootMarbleEngine.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\oop_project\최종일~1\yootMarbleEngine\yootMarbleEngine.vcxproj" 프로젝트를 빌드했습니다(rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:11.40
